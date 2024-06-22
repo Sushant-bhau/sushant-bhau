@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sushant Bhau  <img src="https://i.pinimg.com/originals/ed/06/a5/ed06a57e1a9ac68bc80295b3e2859734.gif" width="150"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-bhau&label=Profile%20views&color=0e75b6&style=flat" alt="sushant-bhau" /> </p>
+ <img alt="cover photo" width=1100 align= "center" src="https://i.pinimg.com/originals/a5/97/44/a5974423d4c750ee60ee3880bb789407.png"/>
  <h1 text="strong">👨🏻‍💻 &nbsp;About me</h1>
+
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
